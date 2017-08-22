@@ -1,0 +1,11 @@
+{
+  "packageDir": "build",
+  "projectPath": "gmpro/2.0.0/channel/auto/1.5.9",
+  "projectFolder": "css|js",
+  "projectAppend": "xxx/aaa|xxx/a.txt|xxx/b.txt",
+  "projectInnerAppend": "xxx/d.txt|xxx/a.txt|xxx/aaa|data",
+  "appPath": "WEB-INF/template/auto",
+  "appFolder": "html",
+  "appAppend": "data|xxx/aaa|xxx/a.txt",
+  "appInnerAppend": "xxx/b.txt|xxx/c.txt|xxx/aaa"
+}
